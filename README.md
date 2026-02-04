@@ -1,5 +1,6 @@
 ALPHA RELEASE
 
+SHOWCASE : https://youtu.be/Id5rk-E0xdM
 DEPENDENCIAS
 QBCORE- screenshotbasic 
 
