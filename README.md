@@ -1,8 +1,9 @@
 ALPHA RELEASE
 
 SHOWCASE : https://youtu.be/Id5rk-E0xdM
-DEPENDENCIAS
-QBCORE- screenshotbasic 
+
+DEPENDENCIAS: QBCORE- screenshotbasic 
+
 
 # Critikal_Dispatch
 🚨 Mega Dispatch System v1.0 - QBCore
